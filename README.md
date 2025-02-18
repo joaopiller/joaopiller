@@ -1,4 +1,4 @@
-<>/center
+<center>
 ## Olá! Eu sou o João Vicente Piller 👋
 ![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaopiller&show_icons=true&theme=dracula)
 
