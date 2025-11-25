@@ -7,7 +7,7 @@
   </h3>
 
   <p>
-    <em>"Apaixonado por criar interfaces atraentes e funcionais."</em>
+    <em>Apaixonado por criar interfaces atraentes e funcionais.</em>
   </p>
 
   <a href="https://www.linkedin.com/in/joaopiller">
@@ -27,7 +27,7 @@ Sou estudante de Sistemas de Informação na **UFF** e apaixonado por tecnologia
 
 * 🔭 **Atualmente:** Estagiário de Segurança da Informação (Red Team) na **Icatu Seguros**, focado em Pentest e segurança de aplicações.
 * 💼 **Experiência anterior:** Atuei como Desenvolvedor e Diretor na **IN Junior**, empresa júnior de computação, criando soluções digitais com React e NextJS.
-* ⚡ **Curiosidade:** Adoro criar interfaces atraentes, animadas e intuitivas. 
+* ⚡ **Curiosidade:** Adoro criar interfaces e aprender novas tecnologias. 
 
 ---
 
