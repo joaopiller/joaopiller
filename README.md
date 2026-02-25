@@ -16,14 +16,9 @@
 </div>
 
 ---
+Sou estudante de Sistemas de Informação na **Universidade Federal Fluminense (UFF)** e atualmente Estagiário de Engenharia de Software na **PagBank**, atuando no desenvolvimento e evolução de sistemas backend.
 
-### 🚀 Sobre Mim
-
-Sou estudante de Sistemas de Informação na **Universidade Federal Fluminense** e apaixonado por tecnologia. Minha jornada é marcada por uma visão 360º do desenvolvimento de software:
-
-* 🔭 **Atualmente:** Estagiário de Engenharia de Software na **PagBank**.
-* 💼 **Experiências anteriores:** Atuei como Desenvolvedor de Front-end na **IN Junior** e Estagiário de Segurança da Informação na **Icatu Seguros**.
-
+Tenho foco em Java, Spring Boot e arquitetura de APIs REST, com grande interesse em sistemas escaláveis e seguros. Minha trajetória inclui experiências em desenvolvimento frontend na **IN Junior**, empresa júnior de computação, e estágio em Segurança da Informação na **Icatu Seguros**, o que me proporcionou uma visão completa do ciclo de desenvolvimento de software.
 ---
 
 ### 🛠️ Tech Stack
