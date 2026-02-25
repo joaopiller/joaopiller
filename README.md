@@ -3,11 +3,11 @@
   # Olá, eu sou o João Vicente! 👋
   
   <h3> 
-    👨‍💻 Desenvolvedor Frontend & Mobile
+    👨‍💻 Desenvolvedor Web & Mobile
   </h3>
 
   <p>
-    <em>Apaixonado por criar interfaces atraentes e funcionais.</em>
+    <em>Apaixonado por criar arquiteturas eficientes, seguras e de alto impacto.</em>
   </p>
 
   <a href="https://www.linkedin.com/in/joaopiller">
@@ -25,22 +25,20 @@
 
 Sou estudante de Sistemas de Informação na **UFF** e apaixonado por tecnologia. Minha jornada é marcada por uma visão 360º do desenvolvimento de software:
 
-* 🔭 **Atualmente:** Estagiário de Segurança da Informação (Red Team) na **Icatu Seguros**, focado em Pentest e segurança de aplicações.
-* 💼 **Experiência anterior:** Atuei como Desenvolvedor e Diretor na **IN Junior**, empresa júnior de computação, criando soluções digitais com React e NextJS.
-* ⚡ **Curiosidade:** Adoro criar interfaces e aprender novas tecnologias. 
+* 🔭 **Atualmente:** Estagiário de Engenharia de Software na **PagBank**, focado em desenvolvimento backend.
+* 💼 **Experiência anterior:** Atuei como Desenvolvedor Frontend na **IN Junior**, empresa júnior de computação, e Estagiário de Segurança da Informação (Red Team) na **Icatu Seguros**.
 
 ---
 
 ### 🛠️ Tech Stack
 
 <div style="display: inline_block"><br>
+  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img align="center" alt="React Native" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
 </div>
