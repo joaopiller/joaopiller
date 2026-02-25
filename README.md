@@ -1,6 +1,6 @@
 <div align="center">
   
-  # Olá, eu sou o João Vicente! 👋
+  # Olá, eu sou o João Vicente!
   
   <h3> 
     👨‍💻 Desenvolvedor Web & Mobile
