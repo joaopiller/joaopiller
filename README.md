@@ -26,7 +26,7 @@
 Sou estudante de Sistemas de Informação na **Universidade Federal Fluminense** e apaixonado por tecnologia. Minha jornada é marcada por uma visão 360º do desenvolvimento de software:
 
 * 🔭 **Atualmente:** Estagiário de Engenharia de Software na **PagBank**.
-* 💼 **Experiência anterior:** Atuei como Desenvolvedor de Software na **IN Junior** e Estagiário de Segurança da Informação (Red Team) na **Icatu Seguros**.
+* 💼 **Experiência anterior:** Atuei como Desenvolvedor de Front-end na **IN Junior** e Estagiário de Segurança da Informação na **Icatu Seguros**.
 
 ---
 
