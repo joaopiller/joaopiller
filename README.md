@@ -18,7 +18,8 @@
 ---
 Sou estudante de Sistemas de Informação na **Universidade Federal Fluminense (UFF)** e atualmente Estagiário de Engenharia de Software na **PagBank**, atuando no desenvolvimento e evolução de sistemas backend.
 
-Tenho foco em Java, Spring Boot e arquitetura de APIs REST, com grande interesse em sistemas escaláveis e seguros. Minha trajetória inclui experiências em desenvolvimento frontend na **IN Junior**, empresa júnior de computação, e estágio em Segurança da Informação na **Icatu Seguros**, o que me proporcionou uma visão completa do ciclo de desenvolvimento de software.
+Tenho foco em Java, Spring Boot e arquitetura de APIs REST, com grande interesse em sistemas escaláveis e seguros. Minha trajetória inclui experiências em desenvolvimento frontend na **IN Junior**, empresa júnior de computação da UFF, e estágio em Segurança da Informação na **Icatu Seguros**, o que me proporcionou uma visão completa do ciclo de desenvolvimento de software.
+
 ---
 
 ### 🛠️ Tech Stack
