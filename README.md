@@ -6,10 +6,6 @@
     👨‍💻 Desenvolvedor Web & Mobile
   </h3>
 
-  <p>
-    <em>Apaixonado por criar arquiteturas eficientes, seguras e de alto impacto.</em>
-  </p>
-
   <a href="https://www.linkedin.com/in/joaopiller">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -26,7 +22,7 @@
 Sou estudante de Sistemas de Informação na **Universidade Federal Fluminense** e apaixonado por tecnologia. Minha jornada é marcada por uma visão 360º do desenvolvimento de software:
 
 * 🔭 **Atualmente:** Estagiário de Engenharia de Software na **PagBank**.
-* 💼 **Experiência anterior:** Atuei como Desenvolvedor de Front-end na **IN Junior** e Estagiário de Segurança da Informação na **Icatu Seguros**.
+* 💼 **Experiências anteriores:** Atuei como Desenvolvedor de Front-end na **IN Junior** e Estagiário de Segurança da Informação na **Icatu Seguros**.
 
 ---
 
