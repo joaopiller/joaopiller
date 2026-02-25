@@ -26,7 +26,7 @@
 Sou estudante de Sistemas de Informação na **UFF** e apaixonado por tecnologia. Minha jornada é marcada por uma visão 360º do desenvolvimento de software:
 
 * 🔭 **Atualmente:** Estagiário de Engenharia de Software na **PagBank**, focado em desenvolvimento backend.
-* 💼 **Experiência anterior:** Atuei como Desenvolvedor Frontend na **IN Junior**, empresa júnior de computação, e Estagiário de Segurança da Informação (Red Team) na **Icatu Seguros**.
+* 💼 **Experiência anterior:** Atuei como Desenvolvedor de Software na **IN Junior**, empresa júnior de computação, e Estagiário de Segurança da Informação (Red Team) na **Icatu Seguros**.
 
 ---
 
