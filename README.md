@@ -27,9 +27,7 @@ Tenho foco em Java, Spring Boot e arquitetura de APIs REST, com grande interesse
 ---
 
 <h2 width="100%" align="center">
- <img width="20px" height="20px" alt="image" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" />
  &nbsp;<strong>Software Development</strong>&nbsp;
- <img width="20px" height="20px" alt="image" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" />
 </h2>
 <p align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -47,9 +45,7 @@ Tenho foco em Java, Spring Boot e arquitetura de APIs REST, com grande interesse
 <br>
 
 <h2 width="100%" align="center">
- <img width="20px" height="20px" alt="image" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" />
  &nbsp;<strong>DevOps & Tools</strong>&nbsp;
- <img width="20px" height="20px" alt="image" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" />
 </h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
