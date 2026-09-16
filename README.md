@@ -22,10 +22,6 @@ Tenho foco em Java, Spring Boot e arquitetura de APIs REST, com grande interesse
 
 ---
 
-[![Minha atividade no GitHub](https://github-readme-activity-graph.vercel.app/graph?username=joaopiller&theme=high-contrast&area=true&area_color=D6D6D6)](https://github.com/joaopiller/github-readme-activity-graph)
-
----
-
 <h2 width="100%" align="center">
  &nbsp;<strong>Software Development</strong>&nbsp;
 </h2>
